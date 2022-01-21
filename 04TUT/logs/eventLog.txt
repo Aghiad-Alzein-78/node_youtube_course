@@ -1,0 +1,2 @@
+2022-01-21	13:43:40	d61ff8d9-a402-440b-9a30-d64d3d9924b7	 Log event emitted
+2022-01-21	13:43:47	ff5650c9-cdda-4273-96bc-a205640acade	 Log event emitted
